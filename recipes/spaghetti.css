@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(126, 255, 132);
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1, h2, h3 {
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+h2, p {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+.even {
+    color:#ff2e2e;
+}
